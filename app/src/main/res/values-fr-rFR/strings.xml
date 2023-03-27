@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Ajouter</string>
+    <string name="answer_placeholder">Votre message</string>
+    <string name="remove">Supprimer</string>
+    <string name="send">Envoyer</string>
+    <string name="sending_sentence">Envoyer \"%1$s\" à %2$s</string>
+    <string name="contact_placeholder">Rechercher</string>
+    <string name="toggle_auto_response">Activer/désactiver le service</string>
+
+    <string-array name="fragments_names">
+        <item>Contacts</item>
+        <item>Réponses</item>
+        <item>Envoyer</item>
+    </string-array>
+
+    <string-array name="default_answers">
+        <item>Actuellement indisponible, veuillez réessayer plus tard</item>
+        <item>Je suis en réunion, je vous rappelle dès que possible</item>
+        <item>Je suis en voiture, je vous recontacterai à l\'arrivée</item>
+        <item>Laissez-moi dormir !</item>
+    </string-array>
+</resources>
